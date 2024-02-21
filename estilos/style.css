@@ -55,3 +55,17 @@ section#redes-sociais img:hover {
     border: 2px solid rgba(255, 255, 255, 0.795);
     transform: translate(3px, -3px);
 }
+a#creditos {
+    display: block;
+    padding: 10px;
+    background-color: chocolate;
+    color: rgb(47, 0, 255);margin-top: 200px;
+    text-align: center;
+    text-decoration: none;
+    font-family:'Courier New', Courier, monospace
+    font-size: 20px;
+}
+a#creditos:hover {
+    text-decoration: underline;
+    background-color: rgb(194, 81, 0);
+}
